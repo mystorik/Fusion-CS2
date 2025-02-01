@@ -1,7 +1,7 @@
 /*
 
 fixed by @mystorik
-credits: a2x: cs2-dumper
+credits: a2x repo: cs2-dumper
 
 */
 
